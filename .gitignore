@@ -1,0 +1,9 @@
+.*
+*.csv
+~*
+*.zip
+*.pkl
+*.h5
+*.xls
+*.xlsx
+*.xml
