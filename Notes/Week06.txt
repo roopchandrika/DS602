@@ -1,0 +1,7 @@
+Professor, Already mentioned don't import additional libraries.
+
+
+Q5) Imported Roc_Curve and Auc_Curve
+
+hw: 85
+lab: 100
