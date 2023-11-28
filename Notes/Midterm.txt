@@ -1,0 +1,4 @@
+hw: 32
+
+Impressive work. I would take another pass on markdown as some labels are irrelevant. 
+Logistic regression, svm etc. They are not part of your story. They are tools that you are using, so they shouldn't be the main title.
